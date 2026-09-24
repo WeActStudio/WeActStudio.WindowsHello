@@ -6,7 +6,7 @@
 
 ---
 
-![display](G:\WeAct_Git\WeActStudio.WindowsHello\Images\WindowsHelloPackage1.png)
+![display](./Images/WindowsHelloPackage1.png)
 
 ###### 成品外壳版（配数据线+保护外壳）-- WindowsHelloPackage1
 
@@ -16,7 +16,7 @@
 
 ---
 
-<img src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage2.png" title="" alt=" " data-align="center">
+<img src="./Images/WindowsHelloPackage2.png" title="" alt=" " data-align="center">
 
 ###### 裸板 DIY 版本（仅指纹主板）-- WindowsHelloPackage2
 
