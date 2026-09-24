@@ -1,6 +1,6 @@
 ## 指纹模块使用手册
 
- [English Version](./README-EN.md)
+ [English Version](./README.md)
 
 ---
 
