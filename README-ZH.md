@@ -6,9 +6,9 @@
 
 ---
 
-![display](./Images/WindowsHelloPackage1.png)
+![display](G:\WeAct_Git\WeActStudio.WindowsHello\Images\WindowsHelloPackage1.png)
 
-###### 成品外壳版（配数据线+保护外壳）
+###### 成品外壳版（配数据线+保护外壳）-- WindowsHelloPackage1
 
 整机成品配备高品质防滑 保护外壳与专用 USB 数据线，即插即用。设备防尘、耐摔、做工精良，适用于日常桌面使用与外出便携携带。无需额外配件，开箱即用，适合普通用户日常指纹解锁使用。
 
@@ -16,11 +16,9 @@
 
 ---
 
-<img src="./Images/WindowsHelloPackage2.png" title="" alt=" " data-align="center">
+<img src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage2.png" title="" alt=" " data-align="center">
 
-                              WindowsHelloPackage2
-
-###### 裸板 DIY 版本（仅指纹主板）
+###### 裸板 DIY 版本（仅指纹主板）-- WindowsHelloPackage2
 
 纯电路板设计，无外壳、无数据线，体积超小。适用于 DIY 改装、嵌入式开发、设备集成、工控设备改造以及机箱内置改装场景。性价比极高，可满足技术爱好者与专业开发者的个性化定制需求。
 
