@@ -6,13 +6,9 @@ Fingerprint Module Manual
 
 ---
 
-<img title="" src="./Images/WindowsHelloPackage1.png" alt="  " data-align="center">
+<img title="" src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage1.png" alt="  " data-align="center">
 
-```
-                           WindowsHelloPackage1
-```
-
-###### Finished Version with Case (with USB Cable + Protective Shell) ：
+###### Finished Version with Case  --  WindowsHelloPackage1
 
 Complete finished device equipped with high-quality non-slip ABS shell and dedicated USB cable. Plug and play, dustproof and drop-resistant with exquisite workmanship. Perfect for daily desktop use and portable carrying. No extra accessories needed, ready to use out of the box, ideal for ordinary users.
 
@@ -20,9 +16,9 @@ Complete finished device equipped with high-quality non-slip ABS shell and dedic
 
 ---
 
-![   ](./Images/WindowsHelloPackage2.png)
+![   ](G:\WeAct_Git\WeActStudio.WindowsHello\Images\WindowsHelloPackage2.png)
 
-###### Bare Board DIY Version (Fingerprint Main Board Only)：
+###### Bare Board DIY Version  -- WindowsHelloPackage2
 
 Pure circuit board design without shell and cable, ultra-small size. Suitable for DIY modification, embedded development, equipment integration, industrial control equipment renovation and built-in chassis modification. Extremely cost-effective, 
 meeting the customization needs of technical enthusiasts and professional developers.
