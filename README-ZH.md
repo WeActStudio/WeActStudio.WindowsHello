@@ -6,7 +6,7 @@
 
 ---
 
-<img title="" src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage1.png" alt=" " width="282" data-align="center">
+<img src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage1.png" title="" alt=" " data-align="center">
 
                                WindowsHelloPackage1
 
@@ -18,7 +18,7 @@
 
 ---
 
-<img title="" src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage2.png" alt=" " width="303" data-align="center">
+<img src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage2.png" title="" alt=" " data-align="center">
 
                               WindowsHelloPackage2
 
