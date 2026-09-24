@@ -6,9 +6,7 @@
 
 ---
 
-<img src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage1.png" title="" alt=" " data-align="center">
-
-                               WindowsHelloPackage1
+![display](G:\WeAct_Git\WeActStudio.WindowsHello\Images\WindowsHelloPackage1.png)
 
 ###### 成品外壳版（配数据线+保护外壳）
 
