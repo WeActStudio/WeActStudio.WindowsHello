@@ -6,11 +6,9 @@ Fingerprint Module Manual
 
 ---
 
-<img title="" src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage1.png" alt=" " data-align="center">
+<p align="center"><img src="Images/WindowsHelloPackage1.png" alt="WindowsHelloPackage1 - finished version with case" width="282"></p>
 
-```
-                           WindowsHelloPackage1
-```
+<p align="center"><sub>WindowsHelloPackage1</sub></p>
 
 ###### Finished Version with Case (with USB Cable + Protective Shell) ：
 
@@ -20,11 +18,9 @@ Complete finished device equipped with high-quality non-slip ABS shell and dedic
 
 ---
 
-![ ](G:\WeAct_Git\WeActStudio.WindowsHello\Images\WindowsHelloPackage2.png)
+<p align="center"><img src="Images/WindowsHelloPackage2.png" alt="WindowsHelloPackage2 - bare board DIY version" width="303"></p>
 
-```
-                          WindowsHelloPackage2
-```
+<p align="center"><sub>WindowsHelloPackage2</sub></p>
 
 ###### Bare Board DIY Version (Fingerprint Main Board Only)：
 
