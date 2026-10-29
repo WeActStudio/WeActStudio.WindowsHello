@@ -6,9 +6,9 @@
 
 ---
 
-<img title="" src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage1.png" alt=" " width="282" data-align="center">
+<p align="center"><img src="Images/WindowsHelloPackage1.png" alt="WindowsHelloPackage1 成品外壳版" width="282"></p>
 
-                               WindowsHelloPackage1
+ <p align="center"><sub>WindowsHelloPackage1</sub></p>
 
 ###### 成品外壳版（配数据线+保护外壳）
 
@@ -18,9 +18,9 @@
 
 ---
 
-<img title="" src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage2.png" alt=" " width="303" data-align="center">
+<p align="center"><img src="Images/WindowsHelloPackage2.png" alt="WindowsHelloPackage2 裸板 DIY 版" width="303"></p>
 
-                              WindowsHelloPackage2
+<p align="center"><sub>WindowsHelloPackage2</sub></p>
 
 ###### 裸板 DIY 版本（仅指纹主板）
 
