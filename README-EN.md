@@ -1,6 +1,6 @@
 Fingerprint Module Manual
 
-[简体中文](./README-ZH.md)
+[简体中文](./README.md)
 
 ---
 
