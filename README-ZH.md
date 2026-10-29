@@ -1,14 +1,16 @@
 ## 指纹模块使用手册
 
- [English Version](./README.md)
+ [English Version](./README-EN.md)
 
 ---
 
 ---
 
-![display](./Images/WindowsHelloPackage1.png)
+<img title="" src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage1.png" alt=" " width="282" data-align="center">
 
-###### 成品外壳版（配数据线+保护外壳）-- WindowsHelloPackage1
+                               WindowsHelloPackage1
+
+###### 成品外壳版（配数据线+保护外壳）
 
 整机成品配备高品质防滑 保护外壳与专用 USB 数据线，即插即用。设备防尘、耐摔、做工精良，适用于日常桌面使用与外出便携携带。无需额外配件，开箱即用，适合普通用户日常指纹解锁使用。
 
@@ -16,9 +18,11 @@
 
 ---
 
-<img src="./Images/WindowsHelloPackage2.png" title="" alt=" " data-align="center">
+<img title="" src="file:///G:/WeAct_Git/WeActStudio.WindowsHello/Images/WindowsHelloPackage2.png" alt=" " width="303" data-align="center">
 
-###### 裸板 DIY 版本（仅指纹主板）-- WindowsHelloPackage2
+                              WindowsHelloPackage2
+
+###### 裸板 DIY 版本（仅指纹主板）
 
 纯电路板设计，无外壳、无数据线，体积超小。适用于 DIY 改装、嵌入式开发、设备集成、工控设备改造以及机箱内置改装场景。性价比极高，可满足技术爱好者与专业开发者的个性化定制需求。
 
@@ -32,9 +36,13 @@ WeActStudio Windows Hello 指纹模块是一款**微软原生认证 USB 生物�
 
 ### ✅ 适配平台
 
-Windows 10 / Windows 11（x64）
+| 系统                           | 支持情况                                               | 驱动                                                                   |
+| ---------------------------- | -------------------------------------------------- | -------------------------------------------------------------------- |
+| Windows 10 / Windows 11（x64） | ✅ 官方驱动，基本自动安装                                      | [Driver/README-ZH.md](Driver/README-ZH.md)                           |
+| Linux（x86_64 / aarch64）      | ✅ 开源 libfprint 驱动，需编译安装(**自己写的驱动，可能存在BUG,我会尽力修复**) | [Driver/moc5159-libfprint-driver/](Driver/moc5159-libfprint-driver/) |
+| Android / macOS              | ❌ 暂不支持                                             | —                                                                    |
 
-*目前暂时不支持 Android、macOS、Linux 系统*
+> 两个平台的安装步骤、验证方法和常见问题，统一写在 **[Driver/README-ZH.md](Driver/README-ZH.md)**。
 
 ### 🚀 使用步骤
 
@@ -50,7 +58,7 @@ Windows 10 / Windows 11（x64）
 
 - **插入无反应**：更换原生 USB 接口、开启 Windows 更新、重启电脑重试
 
-- **驱动异常/感叹号**：卸载异常设备并删除驱动，重启自动重装；或手动安装离线驱动 `Driver/MOC-release-signed-4.0.105.5`
+- **驱动异常/感叹号**：卸载异常设备并删除驱动，重启自动重装；或按 [Driver/README-ZH.md](Driver/README-ZH.md) §1.2 手动安装离线驱动
 
 - **无法识别 Hello 设备**：更新系统、重启 Windows Biometric Service 服务、清空旧指纹重新录入
 

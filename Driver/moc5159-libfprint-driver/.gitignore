@@ -1,0 +1,28 @@
+# 构建产物
+build/
+build-*/
+*.o
+*.a
+*.so
+*.so.*
+
+# libfprint 源码：仓库自带 libfprint-1.94.100.tar.gz，只有解压出来的目录不进仓库
+vendor/libfprint-*/
+vendor/*.tar.xz
+vendor/*.zip
+
+# 发布打包产物
+*.tar.gz
+*.zip
+*.sha256
+SHA256SUMS
+
+# 例外：仓库自带的上游源码包（离线安装用，必须提交）
+!vendor/libfprint-1.94.100.tar.gz
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
